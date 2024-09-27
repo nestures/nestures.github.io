@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nestures.github.io/sitemap.nestures.gz
+Sitemap: https://nestures.github.io/app/sitemap.nestures.gz
+Sitemap: https://nestures.github.io/assets/sitemap.nestures.gz
+Sitemap: https://nestures.github.io/css/sitemap.nestures.gz
+Sitemap: https://nestures.github.io/data/sitemap.nestures.gz
+Sitemap: https://nestures.github.io/includes/sitemap.nestures.gz
+Sitemap: https://nestures.github.io/item/sitemap.nestures.gz
+Sitemap: https://nestures.github.io/src/sitemap.nestures.gz
